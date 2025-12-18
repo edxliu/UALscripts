@@ -70,6 +70,8 @@ I developed this project as part of completing the Postgraduate Certification at
 
 Thank you to Abul Hasan for your knowledgeable supervision of this project. 
 
-Thank you to my Archives and Special Collections Centre colleagues for supporting and engaging with this project during development, particularly during the user testing phase. 
+Thank you to my Archives and Special Collections Centre colleagues (Georgina Orgill, Elisabeth Thurlow, Lucy Parker and Sarah Mahurter) for supporting and engaging with this project during development, particularly during the user testing phase. 
+
+Thank you to my fellow participants in the Digital Preservation Coalition (DPC) / BitCurator Python Study Groups Cohort 2 - Group 21 (Suzy Murray, Sarah Gentile, Annabel Walz, Jack McConchie, Tom Emsom, Michael Whitmore, Treasa Harkin) and our generous supervisor Scott Prater for beginning the seed for [secureCopyFile.py](https://github.com/Digital-Preservation-Coalition/PythonStudyGroups/blob/main/2024%20Cohort%202/Group%2021/secureCopyFile.py) that inspired and encouraged me to continue our work.
 
 Thank you to the UAL Libraries and Student Service Staff Development Fund, the Digital Preservation Coalition Career Development Fund and The National Archives Skills Bursary for supporting my participation on the PgCert Applied Data Science, without which this project would not have been possible. 
