@@ -24,7 +24,7 @@ This project was created with fellow digital archivists and collections managers
 
 Programmes (1) and (2) are likely to be useful to any service, regardless of your organisation’s digital preservation maturity. The capacity to compare between and safely copy across directories, with integrity checking, is foundational for many services undertaking pre-ingest tasks. 
 
-Programme (3) responds to the idiosyncracies of the UAL cataloguing environment. However the general logic of the programme could certainly be adapted by other services using Preservica to more readily structure their content for ingest to Preservica. Otherwise, services may find tools like [Bagger](https://github.com/LibraryOfCongress/bagger?tab=readme-ov-file) just as useful. 
+Programme (3) responds to the idiosyncracies of the UAL cataloguing environment. However the general logic of the programme could certainly be adapted by other services using Preservica to more readily structure their content for ingest to Preservica.
 
 ## How you can get started with this project 
 
