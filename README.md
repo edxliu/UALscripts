@@ -56,7 +56,7 @@ If based at UAL, you’ll need to know the paths of your source and destination 
 ```
 python structure_SIPs.py 
 ```
-Enter the path of source and destination directories. Enter the cataloguing system the content has been catalogued in, then enter the type of Preservica-friendly folder strucutre you need (Standard or PAX). The relevant CSV logs will be generated following full programme run in a folder titled ‘copy_logs’ which will be saved in the same location that you’ve saved the structure_SIPs.py and utilities scripts. 
+Enter the path of source and destination directories. Enter the cataloguing system the content has been catalogued in, then enter the type of Preservica-friendly folder structure you need (Standard or PAX). The relevant CSV logs will be generated following full programme run in a folder titled ‘copy_logs’ which will be saved in the same location that you’ve saved the structure_SIPs.py and utilities scripts. 
 
  
 
