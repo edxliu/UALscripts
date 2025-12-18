@@ -38,7 +38,8 @@ You’ll need to know the paths of the two directories you’d like to compare. 
 ```
 python compare_hashes.py 
 ```
-When prompted, enter the path of the first directory you’d like to compare; hit enter. When prompted, enter the path of the second directory you’d like to compare; hit enter. The relevant CSV logs will be generated following full programme run in a folder titled ‘compare_logs’ which will be saved in the same location that you’ve saved the compare_hashes.py script. 
+When prompted, enter the path of the first directory you’d like to compare; hit enter. When prompted, enter the path of the second directory you’d like to compare; hit enter. 
+The relevant CSV logs will be generated following full programme run in a folder titled ‘compare_logs’ which will be saved in the same location that you’ve saved the compare_hashes.py script. 
 
 ### (2) Safely copy content (safe_copy.py) 
 
@@ -46,7 +47,8 @@ You’ll need to know the paths of your source and destination directories. Down
 ```
 python safe_copy.py 
 ```
-When prompted, enter the path of the source directory you’d like to copy from; hit enter. When prompted, enter the path of the destination directory you’d like to copy to; hit enter. The relevant CSV logs will be generated following full programme run in a folder titled ‘copy_logs’ which will be saved in the same location that you’ve saved the safe_copy.py script. 
+When prompted, enter the path of the source directory you’d like to copy from; hit enter. When prompted, enter the path of the destination directory you’d like to copy to; hit enter. 
+The relevant CSV logs will be generated following full programme run in a folder titled ‘copy_logs’ which will be saved in the same location that you’ve saved the safe_copy.py script. 
 
 ### (3) Structure content into Preservica-friendly folder structures (structure_SIPs, with utilities) 
 
@@ -56,7 +58,8 @@ If based at UAL, you’ll need to know the paths of your source and destination 
 ```
 python structure_SIPs.py 
 ```
-When prompted, enter the path of the source directory you’d like to copy from; hit enter. When prompted, enter the path of the destination directory you’d like to copy to; hit enter. When prompted, enter the cataloguing system the content has been catalogued in; hit enter. When prompted, enter the type of Preservica-friendly folder structure you need (Standard or PAX); hit enter. The relevant CSV logs will be generated following full programme run in a folder titled ‘copy_logs’ which will be saved in the same location that you’ve saved the structure_SIPs.py and utilities scripts. 
+When prompted, enter the path of the source directory you’d like to copy from; hit enter. When prompted, enter the path of the destination directory you’d like to copy to; hit enter. When prompted, enter the cataloguing system the content has been catalogued in; hit enter. When prompted, enter the type of Preservica-friendly folder structure you need (Standard or PAX); hit enter. 
+The relevant CSV logs will be generated following full programme run in a folder titled ‘copy_logs’ which will be saved in the same location that you’ve saved the structure_SIPs.py and utilities scripts. 
 
  
 
