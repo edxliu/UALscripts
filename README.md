@@ -22,7 +22,7 @@ Building on both compare_hashes.py and safe_copy.py, this suite of scripts copie
 
 This project was created with fellow digital archivists and collections managers in mind. It responds to the need for archivists to automate tedious tasks whilst applying scripts that can meet certain archival standards and digital preservation good practice. A priority when developing this project was to ensure that integrity checking was integrated into every programme.  
 
-Programmes (1) and (2) are likely to be useful to any service, regardless of your organisation’s digital preservation maturity. The capacity to compare between and safely copy across directories, with integrity checking, is foundational for many services undertaking pre-ingest tasks. 
+Programmes (1) and (2) are likely to be useful to any service, regardless of your organisation’s digital preservation maturity. The capacity to compare between and safely copy across directories, with integrity checking, is foundational for any services undertaking pre-ingest tasks. 
 
 Programme (3) responds to the idiosyncracies of the UAL cataloguing environment. However the general logic of the programme could certainly be adapted by other services using Preservica to more readily structure their content for ingest to Preservica.
 
