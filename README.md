@@ -28,24 +28,24 @@ Programme (3) responds to the idiosyncracies of the UAL cataloguing environment.
 
 ## How you can get started with this project 
 
-You will need to have Python 3.12 on your local device. 
+You will need to have Python 3.12 on your device. 
 
 With python downloaded, you can get started by downloading whichever script (or suite of scripts) you’d like to use.  
 
 ### (1) Compare directories (compare_hashes.py) 
 
 You’ll need to know the paths of the two directories you’d like to compare. Download and ensure the compare_hashes.py script is saved in a location that can access these directories. Open your shell interface, ensuring you are in the directory where your script is saved and run: 
-
+```
 python compare_hashes.py 
-
+```
 Enter the path of each directory you’d like to compare. The relevant CSV logs will be generated following full programme run in a folder titled ‘compare_logs’ which will be saved in the same location that you’ve saved the compare_hashes.py script. 
 
 ### (2) Safely copy content (safe_copy.py) 
 
 You’ll need to know the paths of your source and destination directories. Download and ensure the safe_copy.py script is saved in a location that can access these directories. Open your shell interface, ensuring you are in the directory where your script is saved and run: 
-
+```
 python safe_copy.py 
-
+```
 Enter the path of source and destination directories. The relevant CSV logs will be generated following full programme run in a folder titled ‘copy_logs’ which will be saved in the same location that you’ve saved the safe_copy.py script. 
 
 ### (3) Structure content into Preservica-friendly folder structures (structure_SIPs, with utilities) 
@@ -53,9 +53,9 @@ Enter the path of source and destination directories. The relevant CSV logs will
 You’ll be unlikely to use this script without some tweaks unless you’re based at UAL.  
 
 If based at UAL, you’ll need to know the paths of your source and destination directories. Download and ensure all scripts from the structures_SIPs folder are saved in a location that can access these directories. Open your shell interface, ensuring you are in the directory where your script is saved and run: 
-
+```
 python structure_SIPs.py 
-
+```
 Enter the path of source and destination directories. Enter the cataloguing system the content has been catalogued in, then enter the type of Preservica-friendly folder strucutre you need (Standard or PAX). The relevant CSV logs will be generated following full programme run in a folder titled ‘copy_logs’ which will be saved in the same location that you’ve saved the structure_SIPs.py and utilities scripts. 
 
  
