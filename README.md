@@ -1,4 +1,4 @@
-These python-based scripts were created to support automation of digital preservation workflows at the [University of the Arts (UAL) London Archives and Special Collections Centre](https://www.arts.ac.uk/students/library-services/special-collections-and-archives/archives-and-special-collections-centre). The project was developed as part of completing the Postgraduate Certification at Birbeck, University of London, under supervision of [Abul Hasan](https://abulhasanbbk.github.io/). 
+These python-based scripts were created to support automation of digital preservation workflows at the [University of the Arts (UAL) London Archives and Special Collections Centre](https://www.arts.ac.uk/students/library-services/special-collections-and-archives/archives-and-special-collections-centre). The project was developed as part of completing the Postgraduate Certification Applied Data Science at Birbeck, University of London, under supervision of [Abul Hasan](https://abulhasanbbk.github.io/). 
 
 ## What this project is
 
@@ -62,7 +62,7 @@ Enter the path of source and destination directories. Enter the cataloguing syst
 
 ## Maintenance and contribution 
 
-I developed this project as part of completing the Postgraduate Certification at Birbeck, University of London. Maintenance is not currently part of my core duties. However, if you have any questions about this project, would like to suggest a tweak or are having trouble using the project, I would be happy to discuss this with you. Please contact me via the UAL Archives and Special Collections Centre at [archives@arts.ac.libanswers.com](mailto:archives@arts.ac.libanswers.com).
+I developed this project as part of completing the Postgraduate Certification Applied Data Science at Birbeck, University of London. Maintenance is not currently part of my core duties. However, if you have any questions about this project, would like to suggest a tweak or are having trouble using the project, I would be happy to discuss this with you. Please contact me via the UAL Archives and Special Collections Centre at [archives@arts.ac.libanswers.com](mailto:archives@arts.ac.libanswers.com).
 
  
 
