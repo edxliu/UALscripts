@@ -74,4 +74,4 @@ Thank you to my Archives and Special Collections Centre colleagues (Georgina Org
 
 Thank you to my fellow participants in the Digital Preservation Coalition (DPC) / BitCurator Python Study Groups Cohort 2 - Group 21 (Suzy Murray, Sarah Gentile, Annabel Walz, Treasa Harkin, Jack McConchie, Tom Emsom, Michael Whitmore) and our generous supervisor Scott Prater for beginning the seed for [secureCopyFile.py](https://github.com/Digital-Preservation-Coalition/PythonStudyGroups/blob/main/2024%20Cohort%202/Group%2021/secureCopyFile.py) that inspired and encouraged me to continue our work.
 
-Thank you to the UAL Libraries and Student Service Staff Development Fund, the Digital Preservation Coalition Career Development Fund and The National Archives Skills Bursary for supporting my participation on the PgCert Applied Data Science, without which this project would not have been possible. 
+Thank you to the UAL Libraries and Student Service Staff Development Fund, the DPC Career Development Fund and The National Archives Skills Bursary for supporting my participation on the PgCert Applied Data Science, without which this project would not have been possible. 
