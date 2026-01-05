@@ -14,7 +14,7 @@ Building on compare_hashes.py, this script safely copies content from one direct
 
 ### (3) Structure content into Preservica-friendly folder structures (structure_SIPs, with utilities) 
 
-Building on both compare_hashes.py and safe_copy.py, this suite of scripts copies over content into a folder structure acceptable to the digital preservation system Preservica. It interprets user specifications for (1) the UAL cataloguing convention (museums [TMS], libraries [Koha] or archives [Calm] and (2) the desired structure (standard or multi-asset PAX). It then creates the appropriate Preservica-friendly folder structure (with appropriate naming convention) and copies content into this required structure. As with safe_copy.py, this programme registers each successful copy process with a timestamp, comparing source/destination MD5 checksums, and outputs this information as a CSV log. Any errors and/or bottlenecks can be identified using the log. 
+Building on both compare_hashes.py and safe_copy.py, this suite of scripts copies over content into a folder structure acceptable to the digital preservation system Preservica. It interprets user specifications for (1) the UAL cataloguing convention (museums [TMS], libraries [Koha] or archives [Calm]) and (2) the desired structure (standard or multi-asset PAX). It then creates the appropriate Preservica-friendly folder structure (with appropriate naming convention) and copies content into this required structure. As with safe_copy.py, this programme registers each successful copy process with a timestamp, comparing source/destination MD5 checksums, and outputs this information as a CSV log. Any errors and/or bottlenecks can be identified using the log. 
 
  
 
